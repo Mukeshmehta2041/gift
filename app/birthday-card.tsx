@@ -20,10 +20,10 @@ export default function BirthdayCard() {
     const [activeMemory, setActiveMemory] = useState<number | null>(null)
 
     const images = [
-        "/img-4.jpeg?height=400&width=600",
+        "/img-3.jpeg?height=400&width=600",
         "/img-1.jpeg?height=400&width=600",
-        // "/img-4.jpeg?height=400&width=600",
         "/img-4.jpeg?height=400&width=600",
+        // "/img-4.jpeg?height=400&width=600",
     ]
 
     const memories = [
