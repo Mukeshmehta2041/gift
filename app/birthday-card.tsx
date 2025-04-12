@@ -318,7 +318,7 @@ export default function BirthdayCard() {
                             and may you find joy in the little moments that life offers.
                         </p>
                         <p className="mb-4">Enjoy your special day to the fullest! 🎂🎈</p>
-                        {/* <p className="font-medium text-pink-600">Your friend</p> */}
+                        <p className="mb-4">Kal chup chap party de dena 😜🎉</p>
                     </div>
 
                 </motion.div>
