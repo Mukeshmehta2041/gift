@@ -432,8 +432,8 @@ export default function BirthdayCard() {
                                 className="w-full h-[400px] object-cover"
                             />
                             <div className="p-6">
-                                <h3 className="text-2xl font-bold text-pink-600 mb-2">{memories[activeMemory].title}</h3>
-                                <p className="text-gray-700">{memories[activeMemory].description}</p>
+                                {/* <h3 className="text-2xl font-bold text-pink-600 mb-2">{memories[activeMemory].title}</h3>
+                                <p className="text-gray-700">{memories[activeMemory].description}</p>  */}
                                 <Button className="mt-4 bg-pink-500 hover:bg-pink-600" onClick={() => setActiveMemory(null)}>
                                     Close
                                 </Button>
